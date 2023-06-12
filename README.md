@@ -1,7 +1,5 @@
 # moment-registered
 
-# search-phone
-
 To import the package that can be used to work with regular expressions.
 ```sh
 import datetime
